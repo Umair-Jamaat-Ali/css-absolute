@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(57, 212, 57);
+    width: 100%;
+}
+h1{
+    position:absolute;
+    top:0px;
+    left: 750px;
+    color: olive;
+    background-color: blanchedalmond;
+width: 250px;
+}
+p{
+    width: 450px;
+    color: peru;
+    background-color: rgb(218, 233, 13);
+}
